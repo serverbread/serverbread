@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[个人站点](https://dashabi.stehp.cn)
 - 😄 Pronouns: ...idk
 - ⚡ Fun fact: ...撅
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
