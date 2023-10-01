@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...学校
 - 🌱 I’m currently learning ...javascript
 - 👯 I’m looking to collaborate on ...idk
-- 🤔 I’m looking for help with ...[XIAYM](https://github.com/XIAYM)
+- 🤔 I’m looking for help with ...[XIAYM](https://github.com/XIAYM-gh)
 - 💬 Ask me about ...如何摆烂
 - 📫 How to reach me: ...[个人站点](https://dashabi.stehp.cn)
 - 😄 Pronouns: ...idk
