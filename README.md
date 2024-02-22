@@ -1,6 +1,4 @@
 ### Hi there 👋
-![IP签名](https://tool.lu/netcard/)
-
 
 **serverbread/serverbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
